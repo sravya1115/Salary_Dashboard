@@ -20,3 +20,6 @@ To design an interactive Excel dashboard that enables effective visualization an
 
 - Microsoft Excel 
 - No external add-ins or macros required
+## 📸 Dashboard
+
+<img width="931" alt="screenshot" src="https://github.com/user-attachments/assets/d6baf4c1-573c-44f8-a36e-b4945dea0f89" />
