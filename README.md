@@ -23,3 +23,11 @@ To design an interactive Excel dashboard that enables effective visualization an
 ## 📸 Dashboard
 
 <img width="931" alt="screenshot" src="https://github.com/user-attachments/assets/d6baf4c1-573c-44f8-a36e-b4945dea0f89" />
+## 🔍 Project Insight
+
+This project demonstrates how Excel can be leveraged as a powerful data visualization tool for HR and compensation analysis. By using pivot tables, charts, and interactive filters, the dashboard allows users to gain quick and actionable insights into salary distributions, departmental trends, and experience-based compensation comparisons—without writing any code.
+
+## ✅ Project Conclusion
+
+The Salary Dashboard provides a comprehensive yet user-friendly interface for analyzing salary data. It helps HR professionals, analysts, and decision-makers identify pay gaps, assess market competitiveness, and make informed compensation decisions. With minimal technical requirements, this solution can be adapted across organizations for efficient workforce planning.
+
