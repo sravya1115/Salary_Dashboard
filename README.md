@@ -14,3 +14,9 @@ To design an interactive Excel dashboard that enables effective visualization an
 - Visualizations: Bar charts, pie charts, and salary trend lines
 - KPIs: Average salary, total compensation, and more
 - Clean, user-friendly layout with conditional formatting
+
+
+## 📌 Requirements
+
+- Microsoft Excel 
+- No external add-ins or macros required
