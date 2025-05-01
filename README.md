@@ -1,2 +1,5 @@
-# Salary_Dashboard
-An interactive Excel dashboard for visualizing and analyzing salary data. Includes dynamic filters, charts, and key metrics to explore salary trends across roles, departments, and experience levels.
+# 💼 Excel Salary Dashboard for Data Analysis
+
+## 🎯  Project Objective
+
+To design an interactive Excel dashboard that enables effective visualization and analysis of salary data across departments, roles, and experience levels—helping users make data-driven decisions related to compensation trends.
